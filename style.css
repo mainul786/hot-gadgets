@@ -1,0 +1,68 @@
+.container{
+    margin-bottom:30px;
+}
+.carousel-item{
+padding: 10px 40px;
+}
+.carousel-indicators{
+    background-color: orange;
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 40px lightgray;
+}
+.backimg{
+    background-image: url("images/bg-2.png");
+    background-repeat:no-repeat;
+    background-position:left;
+
+}
+.back{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+}
+span{
+    color: coral;
+}
+.buy{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cata{
+
+    text-align:center;
+}
+.catagory h1{
+    text-align:center;
+}
+.eff{
+    border:2px solid red;
+}
+.cat3 img{
+    width: 500px;
+}
+.cat3{
+    box-shadow: 5px 5px 10px graylight;
+}
+.catagory h1{
+text-align: center;
+}
+.catagory hr{
+    width: 100px;
+    height: 5px;
+    background-color: orange;
+}
+.sajabo img{
+width: 390px;
+}
+.cat1, .cat2, .cat3{
+    box-shadow: 10px 10px 10px lightgray;
+}
